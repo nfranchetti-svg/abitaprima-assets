@@ -184,5 +184,57 @@
    },
    "uso": "marble"
   }
+ },
+ "models": {
+  "sofa_03": {
+   "tipo": "divano",
+   "file": "sofa_03_1k.gltf",
+   "kb": 652
+  },
+  "mid_century_lounge_chair": {
+   "tipo": "poltrona",
+   "file": "mid_century_lounge_chair_1k.gltf",
+   "kb": 2038
+  },
+  "modern_arm_chair_01": {
+   "tipo": "sedia",
+   "file": "modern_arm_chair_01_1k.gltf",
+   "kb": 2635
+  },
+  "wooden_table_02": {
+   "tipo": "tavolo",
+   "file": "wooden_table_02_1k.gltf",
+   "kb": 474
+  },
+  "modern_coffee_table_01": {
+   "tipo": "tavolino",
+   "file": "modern_coffee_table_01_1k.gltf",
+   "kb": 1300
+  },
+  "painted_wooden_nightstand": {
+   "tipo": "comodino",
+   "file": "painted_wooden_nightstand_1k.gltf",
+   "kb": 2101
+  },
+  "modern_wooden_cabinet": {
+   "tipo": "armadio",
+   "file": "modern_wooden_cabinet_1k.gltf",
+   "kb": 2789
+  },
+  "drawer_cabinet": {
+   "tipo": "cassettiera",
+   "file": "drawer_cabinet_1k.gltf",
+   "kb": 1117
+  },
+  "metal_office_desk": {
+   "tipo": "scrivania",
+   "file": "metal_office_desk_1k.gltf",
+   "kb": 1569
+  },
+  "steel_frame_shelves_01": {
+   "tipo": "libreria",
+   "file": "steel_frame_shelves_01_1k.gltf",
+   "kb": 1560
+  }
  }
 }
