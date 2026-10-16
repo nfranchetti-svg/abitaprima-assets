@@ -1,0 +1,183 @@
+{
+ "nota": "Elenco mostrato nel pannello Crediti di AbitaPrima. Aggiungere qui ogni modello o texture: per i CC BY la citazione e obbligatoria.",
+ "fonti": [
+  {
+   "nome": "Poly Haven",
+   "licenza": "CC0 (pubblico dominio)",
+   "link": "https://polyhaven.com",
+   "cosa": "texture PBR e arredi 3D"
+  }
+ ],
+ "texture": [
+  {
+   "id": "painted_plaster_wall",
+   "nome": "Painted Plaster Wall",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/painted_plaster_wall"
+  },
+  {
+   "id": "white_plaster_02",
+   "nome": "White Plaster 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/white_plaster_02"
+  },
+  {
+   "id": "wood_floor",
+   "nome": "Wood Floor",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/wood_floor"
+  },
+  {
+   "id": "large_floor_tiles_02",
+   "nome": "Large Floor Tiles 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/large_floor_tiles_02"
+  },
+  {
+   "id": "concrete_floor_02",
+   "nome": "Concrete Floor 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/concrete_floor_02"
+  },
+  {
+   "id": "cobblestone_floor_08",
+   "nome": "Cobblestone Floor 08",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/cobblestone_floor_08"
+  },
+  {
+   "id": "asphalt_02",
+   "nome": "Asphalt 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/asphalt_02"
+  },
+  {
+   "id": "pavement_02",
+   "nome": "Pavement 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/pavement_02"
+  },
+  {
+   "id": "leafy_grass",
+   "nome": "Leafy Grass",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/leafy_grass"
+  },
+  {
+   "id": "stone_tiles_02",
+   "nome": "Stone Tiles 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/stone_tiles_02"
+  },
+  {
+   "id": "wood_table_001",
+   "nome": "Wood Table 001",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/wood_table_001"
+  },
+  {
+   "id": "wood_planks",
+   "nome": "Wood Planks",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/wood_planks"
+  },
+  {
+   "id": "marble_01",
+   "nome": "Marble 01",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/marble_01"
+  }
+ ],
+ "modelli": [
+  {
+   "id": "sofa_03",
+   "nome": "Sofa 03",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/sofa_03"
+  },
+  {
+   "id": "mid_century_lounge_chair",
+   "nome": "Mid Century Lounge Chair",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/mid_century_lounge_chair"
+  },
+  {
+   "id": "modern_arm_chair_01",
+   "nome": "Modern Arm Chair 01",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/modern_arm_chair_01"
+  },
+  {
+   "id": "wooden_table_02",
+   "nome": "Wooden Table 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/wooden_table_02"
+  },
+  {
+   "id": "modern_coffee_table_01",
+   "nome": "Modern Coffee Table 01",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/modern_coffee_table_01"
+  },
+  {
+   "id": "painted_wooden_nightstand",
+   "nome": "Painted Wooden Nightstand",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/painted_wooden_nightstand"
+  },
+  {
+   "id": "modern_wooden_cabinet",
+   "nome": "Modern Wooden Cabinet",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/modern_wooden_cabinet"
+  },
+  {
+   "id": "drawer_cabinet",
+   "nome": "Drawer Cabinet",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/drawer_cabinet"
+  },
+  {
+   "id": "metal_office_desk",
+   "nome": "Metal Office Desk",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/metal_office_desk"
+  },
+  {
+   "id": "steel_frame_shelves_01",
+   "nome": "Steel Frame Shelves 01",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/steel_frame_shelves_01"
+  },
+  {
+   "id": "television_02",
+   "nome": "Television 02",
+   "autore": "Poly Haven",
+   "licenza": "CC0",
+   "link": "https://polyhaven.com/a/television_02"
+  }
+ ]
+}
