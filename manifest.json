@@ -1,0 +1,188 @@
+{
+ "source": "Poly Haven (polyhaven.com), licenza CC0",
+ "base": "textures",
+ "sets": {
+  "painted_plaster_wall": {
+   "name": "Painted Plaster Wall",
+   "size_m": [
+    2.0,
+    2.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "plasterExt"
+  },
+  "white_plaster_02": {
+   "name": "White Plaster 02",
+   "size_m": [
+    1.0,
+    1.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "wallInt"
+  },
+  "wood_floor": {
+   "name": "Wood Floor",
+   "size_m": [
+    1.7,
+    1.7
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "parquet"
+  },
+  "large_floor_tiles_02": {
+   "name": "Large Floor Tiles 02",
+   "size_m": [
+    3.0,
+    3.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "gres"
+  },
+  "concrete_floor_02": {
+   "name": "Concrete Floor 02",
+   "size_m": [
+    2.0,
+    2.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "concrete"
+  },
+  "cobblestone_floor_08": {
+   "name": "Cobblestone Floor 08",
+   "size_m": [
+    2.0,
+    2.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "porphyry"
+  },
+  "asphalt_02": {
+   "name": "Asphalt 02",
+   "size_m": [
+    3.0,
+    3.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "asphalt"
+  },
+  "pavement_02": {
+   "name": "Pavement 02",
+   "size_m": [
+    2.12,
+    2.12
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "sidewalk"
+  },
+  "leafy_grass": {
+   "name": "Leafy Grass",
+   "size_m": [
+    2.0,
+    2.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "grass"
+  },
+  "stone_tiles_02": {
+   "name": "Stone Tiles 02",
+   "size_m": [
+    2.0,
+    2.0
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "stone"
+  },
+  "wood_table_001": {
+   "name": "Wood Table 001",
+   "size_m": [
+    1.5,
+    1.5
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "oak"
+  },
+  "wood_planks": {
+   "name": "Wood Planks",
+   "size_m": [
+    1.5,
+    1.5
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "larch"
+  },
+  "marble_01": {
+   "name": "Marble 01",
+   "size_m": [
+    1.5,
+    1.5
+   ],
+   "maps": {
+    "diffuse": "diffuse.jpg",
+    "normal": "normal.jpg",
+    "rough": "rough.jpg",
+    "ao": "ao.jpg"
+   },
+   "uso": "marble"
+  }
+ }
+}
