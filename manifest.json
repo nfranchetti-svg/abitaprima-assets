@@ -235,6 +235,11 @@
    "tipo": "libreria",
    "file": "steel_frame_shelves_01_1k.gltf",
    "kb": 1560
+  },
+  "television_02": {
+   "tipo": "mobile_tv",
+   "file": "television_02_1k.gltf",
+   "kb": 1211
   }
  }
 }
